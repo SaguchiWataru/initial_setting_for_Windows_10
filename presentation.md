@@ -186,7 +186,7 @@ exit
 細心の注意を払って作成しましたが、不具合や損害を保証するものではありません。  
 ※Windows 10 以外のOSで実行しないでください。  
 
-[initial_setting_for_Windows_10.bat](https://github.com/SaguchiWataru/initial_setting_for_Windows_10/raw/master/sources/initial_setting_for_Windows_10.bat)  
+[initial_setting_for_Windows_10.bat](https://github.com/SaguchiWataru/initial_setting_for_Windows_10/blob/master/sources/initial_setting_for_Windows_10.bat)  
 
 ## 最後に
 
