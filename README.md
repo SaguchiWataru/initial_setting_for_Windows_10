@@ -49,6 +49,25 @@ Windowsをリカバリーした際に、初期設定を行う手間を省くた�
 
 OOBEの応答ファイルは、使用しているパソコンのメーカーやリカバリーメディアOSのバージョンがバラバラなので作っていません。
 
+## ダウンロード
+
+すべての項目を反映させるには、管理者権限で実行してください。  
+細心の注意を払って作成しましたが、不具合や損害を保証するものではありません。  
+※Windows 10 以外のOSで実行しないでください。  
+
+[initial_setting_for_Windows_10.bat](https://github.com/SaguchiWataru/initial_setting_for_Windows_10/blob/master/sources/initial_setting_for_Windows_10.bat)  
+
+## 最後に
+
+この記事を最後まで読んでいただきありがとうございます。  
+もしも、企業の方で僕に興味を持って頂けた方がいらっしゃったら幸いです。  
+最近は、[AtCoder](https://atcoder.jp/users/K019C1053)というプログラミングコンテストに毎週参加しています。  
+プログラミングのレベルを他の人と相対的に可視化できるサイトなので、よろしければご確認ください。  
+[K019C1053のコンテスト実績](https://atcoder.jp/users/K019C1053)  
+K019C1053は、日本工学院専門学校の佐口航の学籍番号です。  
+
+2023年卒業予定です！  
+
 ## ソースコード
 
 すべての項目を反映させるには、管理者権限で実行してください。  
@@ -179,22 +198,3 @@ shutdown /r /t 0
 
 exit
 ```
-
-## ダウンロード
-
-すべての項目を反映させるには、管理者権限で実行してください。  
-細心の注意を払って作成しましたが、不具合や損害を保証するものではありません。  
-※Windows 10 以外のOSで実行しないでください。  
-
-[initial_setting_for_Windows_10.bat](https://github.com/SaguchiWataru/initial_setting_for_Windows_10/blob/master/sources/initial_setting_for_Windows_10.bat)  
-
-## 最後に
-
-この記事を最後まで読んでいただきありがとうございます。  
-もしも、企業の方で僕に興味を持って頂けた方がいらっしゃったら幸いです。  
-最近は、[AtCoder](https://atcoder.jp/users/K019C1053)というプログラミングコンテストに毎週参加しています。  
-プログラミングのレベルを他の人と相対的に可視化できるサイトなので、よろしければご確認ください。  
-[K019C1053のコンテスト実績](https://atcoder.jp/users/K019C1053)  
-K019C1053は、日本工学院専門学校の佐口航の学籍番号です。  
-
-2023年卒業予定です！  
